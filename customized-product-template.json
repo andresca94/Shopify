@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "main-product-new",
+      "type": "customized-product",
       "blocks": {
         "9cb1f481-84eb-4d5e-854b-24c04ae2f801": {
           "type": "text",
