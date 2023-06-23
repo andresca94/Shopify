@@ -772,3 +772,10 @@ canvas#tshirt-canvas {
 
 
 }
+.page-width {
+    max-width: 100%!important;
+}
+
+.grid__item.product__media-wrapper {
+    max-width: 100%!important;
+}
