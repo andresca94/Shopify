@@ -910,9 +910,9 @@ fetch(url, {
     if (response.ok) {
       return response.json();
     } else {
-      throw new Error("Request failed with status " + response.status);
        alert("Some error occured. Please try again.");
       location.reload();
+      throw new Error("Request failed with status " + response.status);
     }
   })
   .then(responseData => {
